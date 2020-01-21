@@ -1,0 +1,17 @@
+body{
+    background: url("../img/cielo.jpg");/*cargar una foto en el body y ademas en una carpeta fuera*/
+    background-attachment: fixed; /*Cuando se haga scrool se muestre la imagen de la misma forma*/
+}
+
+#logo{
+    background:blue; 
+}
+
+#menu ul li:hover{ /*pasar por encima con el rato*/
+    background: blue;
+}
+
+.button-more{
+    background: blue;
+    
+}
